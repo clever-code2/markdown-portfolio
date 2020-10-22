@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+<img alt="ALT test" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbgr.com%2F2020%2F03%2F27%2Fiphone-12-release-date-soon-leaked-12-pro-photos%2F&psig=AOvVaw0HzKJUohiHaSVfzYeA-J35&ust=1603445850549000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCEqrTzx-wCFQAAAAAdAAAAABAD")
