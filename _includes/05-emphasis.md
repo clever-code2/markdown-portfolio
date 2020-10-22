@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*clever eziogor*
+_love_
+
+**Nigeria**
+__is on fire__
+
+_love **your** neighbour as yourself_
